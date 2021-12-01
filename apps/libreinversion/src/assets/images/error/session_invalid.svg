@@ -1,0 +1,18 @@
+<svg width="72" height="73" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path id="a" d="M0 0h33.553v24.407H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path d="M30.413 43.834v10.95c0 1.353 1.119 2.449 2.499 2.449h28.554c1.38 0 2.499-1.096 2.499-2.45V35.276c0-1.353-1.12-2.45-2.5-2.45h-4.193l-13.397.068M39.102 57.268c.638 2.642-1.977 4.852-1.977 4.852H57.29s-3.097-1.83-1.977-4.852" stroke="#2C2C33" stroke-width="1.5" stroke-linecap="round"/>
+        <path d="M42.75 45.51s1.38 2.01 4.302.405c2.74-1.507 4.655.09 4.655.09" stroke="#7C8797" stroke-width="1.5" stroke-linecap="round"/>
+        <path d="M43.909 21.442h2.806c2.385 0 4.319 1.606 4.319 3.586v7.448" stroke="#2C2C33" stroke-width="1.5" stroke-linecap="round"/>
+        <path d="M16.546 36.3c.638 2.642-1.977 4.852-1.977 4.852h20.165s-3.097-1.83-1.977-4.853" stroke="#E1001D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+        <g transform="translate(7.875 11.893)">
+            <mask id="b" fill="#fff">
+                <use xlink:href="#a"/>
+            </mask>
+            <path d="M26.859 0H2.499C1.12 0 0 1.096 0 2.449v19.509c0 1.352 1.12 2.449 2.5 2.449h28.554c1.38 0 2.5-1.097 2.5-2.45V2.45c0-1.353-1.12-2.45-2.5-2.45H26.86z" fill="#E1001D" mask="url(#b)"/>
+        </g>
+        <path stroke="#FFF" stroke-width="1.5" stroke-linecap="round" d="m26.604 20.75 3.188 3.188-3 3M17.229 23.844h11.813"/>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<avvillas-header></avvillas-header>
+<!-- <router-outlet></router-outlet> -->
+
+<form (ngSubmit)="onSubmit()" [formGroup]="monorepo">
+  <h1>Mi primer formulario con elements custom</h1>
+  <avvillas-input tipo="text" requerido="true" textobase="Daniel" minimo="5" maximo="12" nombre="miprimercampo" formControlName="miprimercampo" ngDefaultControl ></avvillas-input>
+  <avvillas-button class="mt-1" modo="primary medium" estado="false" tipo="submit" valor="CONTINUAR"></avvillas-button>
+</form>
+
+
